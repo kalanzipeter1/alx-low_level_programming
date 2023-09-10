@@ -6,7 +6,7 @@
 *Return: always 0 (success)
 */
 
-int main(oid)
+int main(void)
 {
 	char letter;
 
